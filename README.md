@@ -6,17 +6,10 @@ This implementation is based on Shannon-Fano standard algorithm: ordering the li
 For the "data.in" example the output will be displayed like this:
 
 K 00
-
 W 10
-
 Y 010
-
 B 110
-
 O 0110
-
 R 1110
-
 P 0111
-
 G 10
